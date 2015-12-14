@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+A branch is a "parallel universe" in which code can follow a different path, be edited and built upon seperately from aa main project. This also creates a safe point to which you can revert to should data be lost or project specifications changed for example.
