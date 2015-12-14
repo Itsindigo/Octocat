@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words.
+Upstream is a term used to describe a cloned piece of data relatively to the original. A repository that is "upstream" has not been updated with the file changes in the cloned repository.
